@@ -6,7 +6,7 @@ const trigger = () => {
     document.getElementById("hover").addEventListener("mouseover", popup);  
 };
 
-
+window.addEventListener("load",trigger);
 
 function hideinstructions(btn){
     document.getElementById("instructions").style.display="none";
