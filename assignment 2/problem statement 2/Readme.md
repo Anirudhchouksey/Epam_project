@@ -7,6 +7,7 @@ First line: N M D
 Next M lines: u v (roads)
 Output Format
 Print the number of efficiently reachable cities.
+
 Constraints
 1 ≤ N ≤ 10^5
 0 ≤ M ≤ 2×10^5
